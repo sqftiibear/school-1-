@@ -1,0 +1,47 @@
+a{
+    font-family: fredoka one;
+}
+marquee{
+    font-family: indie flower;
+    color: white;
+    background-color: forestgreen;
+    position: sticky;
+    margin-left: 50px;
+    margin-bottom: 4000px
+}
+#image{
+    width:100%;
+    height: auto%
+}
+#spannnn{
+    padding-bottom: 100px;
+    padding-top: 100px;
+    width: 60%
+}
+#contactss{
+    color: darkblue;
+    font-family: fredoka one;
+}
+nav{
+    background-color: darkblue
+        
+}
+#contact{
+    background-color: #e3ecff;
+    text-align: center;
+}
+#iiii{
+    border-radius: 10000px;
+    width: 100px
+}
+iframe{
+    border-radius: 50px;
+    margin-left: 25px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 100px;
+}
+div{
+    margin-top: 30px;
+    padding-right: 100px;
+}
