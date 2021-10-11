@@ -5,9 +5,7 @@ marquee{
     font-family: indie flower;
     color: white;
     background-color: forestgreen;
-    position: sticky;
-    margin-left: 50px;
-    margin-bottom: 4000px
+    position: fixed
 }
 #image{
     width:100%;
@@ -40,8 +38,4 @@ iframe{
     border-style: solid;
     border-color: aliceblue;
     border-width: 100px;
-}
-div{
-    margin-top: 30px;
-    padding-right: 100px;
 }
